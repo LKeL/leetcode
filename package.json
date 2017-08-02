@@ -1,0 +1,11 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "heartblood solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heartblood",
+  "license": "ISC"
+}
